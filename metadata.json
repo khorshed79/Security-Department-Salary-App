@@ -1,0 +1,5 @@
+{
+  "name": "Factory Salary Management",
+  "description": "A comprehensive application to manage employee salaries, process payments, and generate payslips for a factory.",
+  "requestFramePermissions": []
+}
